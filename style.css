@@ -1,0 +1,50 @@
+body {
+  font-size: 14px;
+  background-color: white; 
+  font-family: 'Quantico', sans-serif;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+
+header {
+  text-align: center;
+  color: pink;
+  font-family: 'Nanum Gothic Coding', monospace;
+  font-size: 3em; 
+}
+
+button {
+    height: 500px;
+    width: 500px;
+    margin: 200px;
+    margin-top: 10px;
+    border-radius: 50%;
+    font-size: 3.2em;
+    background-color: pink;
+    border: fuchsia;
+    color: #fdfdfd;
+    cursor: pointer;
+    border-block-color: white;
+
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    height: 100px; 
+    background-color: #ccc; 
+  }
+  .content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 20px;
+    width: 100%;
+}
+
+.previous_passwords{
+    margin-bottom: 20px;
+}
+  
+  
